@@ -30,7 +30,7 @@ The dashboard is designed to analyse a few trends and relationships:
 6. Trend of Friends, Blocked Accounts, and Target Reach Friends per Year: Tracking the annual trends in the number of friends, blocked accounts, and target reach friends.
 
 # Dashboard Link
-Explore the interactive dashboard [here]([https://youtu.be/WNsV_IZjbcw](https://public.tableau.com/app/profile/k.f4836/viz/NikeLINEDashboard/Dashboard?publish=yes))
+Explore the interactive dashboard [here](https://public.tableau.com/app/profile/k.f4836/viz/NikeLINEDashboard/Dashboard?publish=yes)
 
 https://github.com/Kfkyyian1/linetableaudashboard/assets/146427900/5d1d1119-3eeb-4232-9cbf-6a92c7d63bb2
 
