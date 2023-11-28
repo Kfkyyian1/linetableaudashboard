@@ -1,2 +1,2 @@
-show_downloads: TRUE
+show_downloads: FALSE
 theme: jekyll-theme-minimal
