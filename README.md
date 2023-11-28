@@ -1,3 +1,5 @@
+# Tableau Dashboard: Nike LINE Message Marketing Analysis
+
 # Overview
 This Tableau dashboard is to analyse marketing communication pushes on Nike Thailand's branded LINE profile. The objective is to provide the marketing team with insights into message performance, follower engagement, and trends over the period from January 2020 to February 2022. The types of messages can be seen below.
 
@@ -21,7 +23,7 @@ The analysis is based on two dummy datasets:
 - Blocked Accounts: Total followers who block the branded account
 
 # Key Insights
-The dashboard is designed to analyse a few trends and relationships:
+Designed to analyse a few trends and relationships:
 1. Category vs Open Counts: Examining the correlation between message categories and open counts.
 2. Category vs Clickthrough: Analyzing how different message categories impact user clickthrough rates.
 3. Content Format vs Clickthrough: Assessing the effectiveness of various content formats in generating clickthrough.
