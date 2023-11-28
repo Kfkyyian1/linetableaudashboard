@@ -31,8 +31,7 @@ The dashboard is designed to analyse a few trends and relationships:
 
 # Dashboard Link
 Explore the interactive dashboard [here](https://public.tableau.com/app/profile/k.f4836/viz/NikeLINEDashboard/Dashboard?publish=yes)
-
-https://github.com/Kfkyyian1/linetableaudashboard/assets/146427900/5d1d1119-3eeb-4232-9cbf-6a92c7d63bb2
+<img width="1428" alt="Screenshot 2023-11-19 at 10 45 13 AM" src="https://github.com/Kfkyyian1/linetableaudashboard/assets/146427900/e954cdde-afb9-4388-827f-f08379bd100f">
 
 # Data Insights:
 1. Yearly Trends: The average total friends show a consistent increase year on year. However, blocked accounts increased from 2020 to 2021, with a slight decrease in 2022. Simultaneously, the average number of target reach friends is decreasing, indicating potential user disengagement. They might be phasing out of LINE and prefer to use other social messaging platforms instead.
